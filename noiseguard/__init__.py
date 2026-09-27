@@ -1,0 +1,1 @@
+"""NoiseGuard package."""

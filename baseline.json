@@ -1,0 +1,17 @@
+{
+  "bell_state": {
+    "raw_fidelity": 0.9790231749826535,
+    "mem_fidelity": 0.9982023669403286,
+    "pec_fidelity": null
+  },
+  "ghz_3qubit": {
+    "raw_fidelity": 0.9665422423086409,
+    "mem_fidelity": 0.9968505808595614,
+    "pec_fidelity": null
+  },
+  "qft_4qubit": {
+    "raw_fidelity": 0.9997663489372337,
+    "mem_fidelity": 0.9996994282974002,
+    "pec_fidelity": null
+  }
+}
